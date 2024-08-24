@@ -1,0 +1,10 @@
+.slider_parent{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.slider{
+    width: 250px;
+    height: 250px;
+    border: 1px solid red;
+}
