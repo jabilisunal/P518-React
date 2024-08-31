@@ -4,7 +4,6 @@ import About from "./pages/About";
 import "./App.css";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
-import Header from "./layout/Header";
 import NotFound from "./pages/NotFound";
 import MainLayout from "./layout/MainLayout";
 import Login from "./pages/Login";

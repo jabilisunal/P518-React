@@ -1,0 +1,30 @@
+.my-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.my-cards .card{
+    height: 450px;
+    margin: 5px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.input-us{
+    display:block;
+  margin: auto;
+    width: 400px;
+    padding: 10px 8px;
+}
+.element{
+
+}
+.element .item{
+    
+}
+.active{
+    background-color: brown;
+    color: white;
+}
